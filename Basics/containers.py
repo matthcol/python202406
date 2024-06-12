@@ -18,3 +18,10 @@ liste_villes = [
     ('Lyon', 700_000, '69000'),
     ('Saint Etienne', 300_000, '42000'),
 ]
+
+#  dict[str, str | int]
+city_d = {
+    "name": "Toulouse",
+    "population": 477_000,
+    "code_postal": "31000",
+}
