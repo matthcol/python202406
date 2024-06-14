@@ -10,3 +10,5 @@ class Shape(ABC):
     @abstractmethod
     def translate(self, delta_x: float, delta_y: float) -> None:
         pass
+
+
